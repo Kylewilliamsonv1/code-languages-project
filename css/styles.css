@@ -13,12 +13,19 @@
 .selectionD {
   display:none;
 }
-.selectionE {
-  display:none;
+.intro {
+  width: 80%;
+  border: 15px solid black;
+  padding: 20px;
+  margin: 20px;
+  text-align:center;
 }
-.selectionF {
-  display:none;
+body {
+  background-color:beige;
 }
-.selectionG {
-  display:none;
+.button {
+  padding:20px;
+}
+h2 {
+  padding:20px;
 }
