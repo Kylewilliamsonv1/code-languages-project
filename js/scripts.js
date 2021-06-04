@@ -8,9 +8,14 @@ $(document).ready(function() {
     if (pick5==="q5mac" && pick4==="q4tea" && pick3==="q3no" && pick2==="q2socialmedia" && pick1==="frontend") {
       $("#selections").show();
       $(".selectionA").show();
-    } else if (pick2==="q2videogames" && pick1==="backend") {
+    } else if (pick5==="q5windows" && pick4==="q4coffee" &&pick3==="q3yes" &&pick2==="q2videogames" && pick1==="backend") {
+      $("#selections").show();
+      $(".selectionB").show();
+    } else if (pick5==="q5windows" && pick4==="q4tea" &&pick3==="q3yes" &&pick2==="q2videogames" && pick1==="backend") {
+      $("#selections").show();
+      $(".selectionC").show();
     } else {
-      $(".selectionG").show(); 
+      $(".selectionD").show(); 
     }
     event.preventDefault();
   });
