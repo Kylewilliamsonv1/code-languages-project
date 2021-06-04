@@ -1,4 +1,4 @@
-# _{Code Language Suggestor}_
+# _Code Language Suggestor_
 
 #### _{This application is a code language suggestion tool}_
 
@@ -27,7 +27,7 @@ _{This program was designed to assist the user in selecting a program language. 
 * _This page outputs only 4 working combinations; other combinations do not work at this time._
 
 ## License
-Copyright <2021> Kylewilliamsonv1@gmail.com
+Copyright <2021> 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
