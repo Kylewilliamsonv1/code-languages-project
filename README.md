@@ -1,8 +1,8 @@
 # _Code Language Suggestor_
 
-#### _{This application is a code language suggestion tool}_
+#### _This application is a code language suggestion tool_
 
-#### By _**{Kyle Williamson}**_
+#### By _**Kyle Williamson**_
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-_{This program was designed to assist the user in selecting a program language.  The program utilizes 5 survey questions to determine which program language the user should consider when choosing what to learn next.}_
+_This program was designed to assist the user in selecting a program language.  The program utilizes 5 survey questions to determine which program language the user should consider when choosing what to learn next._
 
 ## Setup/Installation Requirements
 
